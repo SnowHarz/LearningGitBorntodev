@@ -1,4 +1,5 @@
-# LearningGitBorntodev
-HelloWorld SawatdeeKub
 
-# Topic 1
+## Authors
+
+- [@snowharz](https://www.github.com/SnowHarz)
+
